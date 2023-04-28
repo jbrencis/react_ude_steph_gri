@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 import Dropdown from "./components/Dropdown";
 
 function App() {
