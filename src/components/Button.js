@@ -1,7 +1,7 @@
 import className from "classnames";
 import { GoSync } from "react-icons/go";
 
-function Button({
+export function Button({
   children,
   primary,
   secondary,
@@ -56,5 +56,3 @@ Button.propTypes = {
     }
   },
 };
-
-export default Button;

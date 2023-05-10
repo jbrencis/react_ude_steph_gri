@@ -2,7 +2,7 @@
   "users": [
     {
       "name": "Lorraine Nienow",
-      "id": 24
+      "id": 1
     },
     {
       "name": "Marion Cassin",
@@ -11,20 +11,195 @@
     {
       "name": "Ms. Sherman Renner",
       "id": 26
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Rustic Metal Fish",
+      "id": 11
     },
     {
-      "name": "Paulette Jast",
+      "userId": 1,
+      "title": "Unbranded Rubber Chips",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Wooden Fish",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Towels",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Wooden Shirt",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Plastic Cheese",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Bronze Keyboard",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Metal Pizza",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Modern Steel Soap",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Fresh Hat",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Steel Soap",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Granite Hat",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Metal Keyboard",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Metal Cheese",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Wooden Computer",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Metal Cheese",
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Steel Chair",
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Soft Soap",
       "id": 29
     },
     {
-      "name": "Patrick Deckow",
+      "userId": 1,
+      "title": "Recycled Soft Ball",
       "id": 30
     },
     {
-      "name": "Eunice Ebert",
+      "userId": 1,
+      "title": "Tasty Granite Cheese",
       "id": 31
+    },
+    {
+      "userId": 1,
+      "title": "Small Soft Bike",
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Cotton Keyboard",
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Fresh Hat",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Fresh Keyboard",
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Concrete Mouse",
+      "id": 36
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Frozen Cheese",
+      "id": 37
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Soft Towels",
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Frozen Table",
+      "id": 39
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Plastic Table",
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "title": "Small Bronze Bike",
+      "id": 41
     }
   ],
-  "albums": [],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?44712",
+      "id": 6
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?70691",
+      "id": 7
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?84822",
+      "id": 8
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?2515",
+      "id": 9
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?86672",
+      "id": 10
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?77015",
+      "id": 11
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?53180",
+      "id": 12
+    }
+  ]
 }
